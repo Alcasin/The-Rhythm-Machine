@@ -32,5 +32,4 @@ If you plan to reuse or publish this project commercially, it’s recommended to
 ---
 
 ## 🎧 Live Preview
-Check the live version [here](https://alcasin.github.io/The-Rhythm-Machine/)
-: 
+Check the live version [here](https://alcasin.github.io/The-Rhythm-Machine/) .
